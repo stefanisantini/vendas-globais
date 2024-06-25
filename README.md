@@ -1,4 +1,4 @@
-Para a criação deste dashboard, foram formuladas cinco perguntas principais:
+Para a criação deste dashboard por meio do POWER BI, foram formuladas cinco perguntas principais:
 
 Qual o valor total vendido?
 
