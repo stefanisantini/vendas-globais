@@ -1,18 +1,18 @@
 Para a criação deste dashboard por meio do POWER BI, foram formuladas cinco perguntas principais:
 
-Qual o valor total vendido?
+1) Qual o valor total vendido?
 
 Foi utilizado o CARTÃO, resultando em um valor de 12,64 milhões.
 A coluna utilizada para a criação foi: Total_Vendas.
-Quantas vendas foram realizadas por categoria de produto?
+2) Quantas vendas foram realizadas por categoria de produto?
 
 Utilizou-se um gráfico de pizza.
 As colunas utilizadas foram: Categoria e ID_Pedido.
-Quantas vendas foram realizadas por país considerando a prioridade de entrega?
+3) Quantas vendas foram realizadas por país considerando a prioridade de entrega?
 
 Foi utilizado um gráfico de barras empilhadas (geralmente utilizado quando há mais de três informações a serem mostradas).
 No eixo Y, utilizou-se a coluna País; no eixo X, a coluna ID_Pedido; e na legenda, a coluna Prioridade.
-Qual foi a média de desconto nas vendas por subcategoria de produto?
+5) Qual foi a média de desconto nas vendas por subcategoria de produto?
 
 Utilizou-se um gráfico de barras clusterizadas.
 No eixo X, utilizou-se a coluna SubCategoria; no eixo Y, a coluna Desconto (foi necessário calcular a soma para obter a média).
