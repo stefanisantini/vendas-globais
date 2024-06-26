@@ -20,7 +20,7 @@ No eixo Y, utilizou-se a coluna País; no eixo X, a coluna ID_Pedido; e na legen
 Utilizou-se um gráfico de barras clusterizadas.
 No eixo X, utilizou-se a coluna SubCategoria; no eixo Y, a coluna Desconto (foi necessário calcular a soma para obter a média).
 
-5)Quais países tiveram maior média de valor de venda? Demonstre em um mapa.
+5) Quais países tiveram maior média de valor de venda? Demonstre em um mapa.
 
 Utilizou-se um mapa.
 A coluna utilizada foi: País para localização, e Total_Vendas para o tamanho da bolha (foi necessário calcular a soma para obter a média).
